@@ -1,1 +1,2 @@
-this is the python code,according the class
+Machine Learning of Stanford.
+this code is solve class homework.

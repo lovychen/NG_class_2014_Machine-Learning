@@ -1,0 +1,4 @@
+ex2data1:
+smoothStocGradDescent:learndata:0.0001 epoch:3000
+-0.100000 -12009217 -11.262842
+-25.161537 0.206233 0.201474
